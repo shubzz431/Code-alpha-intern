@@ -1,0 +1,45 @@
+======================================================================
+      CODEALPHA DATA ANALYTICS INTERNSHIP - TASK 1: WEB SCRAPING
+                  DATASET ANALYSIS & AUDIT REPORT
+======================================================================
+
+1. EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+Target Source:             Books to Scrape (https://books.toscrape.com)
+Total Books Scraped:       1000
+Unique Categories:         50
+Total Inventory Units:     8,585 items
+Books Currently In Stock:  1000 / 1000
+
+2. PRICING METRICS (GBP £)
+----------------------------------------------------------------------
+Average Price (Mean):      £35.07
+Median Price:              £35.98
+Standard Deviation:        £14.45
+Lowest Book Price:         £10.00
+Highest Book Price:        £59.99
+
+3. STAR RATING DISTRIBUTION
+----------------------------------------------------------------------
+Average Star Rating:       2.92 / 5.0
+  1 Star [★☆☆☆☆]:  226 books ( 22.6%)
+  2 Star [★★☆☆☆]:  196 books ( 19.6%)
+  3 Star [★★★☆☆]:  203 books ( 20.3%)
+  4 Star [★★★★☆]:  179 books ( 17.9%)
+  5 Star [★★★★★]:  196 books ( 19.6%)
+
+4. TOP 5 CATEGORIES BY VOLUME
+----------------------------------------------------------------------
+  - Default                  : 152 books
+  - Nonfiction               : 110 books
+  - Sequential Art           :  75 books
+  - Add a comment            :  67 books
+  - Fiction                  :  65 books
+
+5. DATA PIPELINE ARTIFACTS
+----------------------------------------------------------------------
+  * Raw Data Export:         data/raw/books_raw.csv
+  * Cleaned CSV Export:      data/processed/books_cleaned.csv
+  * Cleaned JSON Export:     data/processed/books_cleaned.json
+  * Visualizations:          output/figures/*.png
+======================================================================
