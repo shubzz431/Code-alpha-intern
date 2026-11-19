@@ -1,0 +1,101 @@
+review_id,product,rating,review_text,sentiment_score,sentiment
+REV101,Mechanical Keyboard,4,Highly recommended. Premium finish and responsive controls. Will buy again for sure.,0.7089,Positive
+REV102,Ultra HD Monitor,4,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV103,Desk Lamp,4,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV104,Ultra HD Monitor,4,Absolutely love this product! The build quality is amazing and sound is crystal clear.,0.9039,Positive
+REV105,Desk Lamp,4,Highly recommended. Premium finish and responsive controls. Will buy again for sure.,0.7089,Positive
+REV106,Gaming Mouse,3,"It performs okay. Delivery was slightly delayed, but product itself is acceptable.",0.476,Positive
+REV107,Smart Watch,4,Fantastic value for money. Very satisfied with the customer service and packaging.,0.8439,Positive
+REV108,Mechanical Keyboard,5,Fantastic value for money. Very satisfied with the customer service and packaging.,0.8439,Positive
+REV109,Smart Watch,2,Poor quality control. Missing parts inside the box and feels very flimsy.,-0.6486,Negative
+REV110,Mechanical Keyboard,1,Waste of money. Latency issues and customer support was completely unhelpful.,-0.0258,Neutral
+REV111,Smart Watch,2,Do not buy this! Defective right out of the box with loud buzzing noise.,-0.5672,Negative
+REV112,Ultra HD Monitor,3,"The product is decent for the price. Not amazing, but does the basic job.",-0.2584,Negative
+REV113,Ultra HD Monitor,3,"The product is decent for the price. Not amazing, but does the basic job.",-0.2584,Negative
+REV114,Ultra HD Monitor,2,Waste of money. Latency issues and customer support was completely unhelpful.,-0.0258,Neutral
+REV115,Bluetooth Speaker,3,"It performs okay. Delivery was slightly delayed, but product itself is acceptable.",0.476,Positive
+REV116,Gaming Mouse,5,Outstanding performance! Very comfortable for long work hours and easy to set up.,0.8953,Positive
+REV117,Mechanical Keyboard,3,"Average quality. Works fine for daily use, though instructions could be clearer.",0.2023,Positive
+REV118,Ultra HD Monitor,5,"A game changer for my desk setup. Sleek design, quiet operation, and reliable connectivity.",0.0,Neutral
+REV119,Ultra HD Monitor,3,"The product is decent for the price. Not amazing, but does the basic job.",-0.2584,Negative
+REV120,Ultra HD Monitor,2,Would not recommend. The cable became loose immediately and buttons feel unresponsive.,-0.5283,Negative
+REV121,Smart Watch,4,Fantastic value for money. Very satisfied with the customer service and packaging.,0.8439,Positive
+REV122,Bluetooth Speaker,4,Great product overall. Exactly as described on the website. Five stars!,0.6588,Positive
+REV123,Smart Watch,5,Highly recommended. Premium finish and responsive controls. Will buy again for sure.,0.7089,Positive
+REV124,Desk Lamp,5,Exceeded all my expectations. Works flawlessly with my laptop and battery life is great.,0.7096,Positive
+REV125,Mechanical Keyboard,3,"The product is decent for the price. Not amazing, but does the basic job.",-0.2584,Negative
+REV126,Gaming Mouse,3,"Fair value. Plastic feels a bit light, but functionality is fine.",0.5499,Positive
+REV127,Mechanical Keyboard,5,Great product overall. Exactly as described on the website. Five stars!,0.6588,Positive
+REV128,Wireless Headphones,3,"The product is decent for the price. Not amazing, but does the basic job.",-0.2584,Negative
+REV129,Smart Watch,3,"It performs okay. Delivery was slightly delayed, but product itself is acceptable.",0.476,Positive
+REV130,Mechanical Keyboard,5,Exceeded all my expectations. Works flawlessly with my laptop and battery life is great.,0.7096,Positive
+REV131,Wireless Headphones,2,Poor quality control. Missing parts inside the box and feels very flimsy.,-0.6486,Negative
+REV132,Gaming Mouse,5,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV133,Ultra HD Monitor,4,Exceeded all my expectations. Works flawlessly with my laptop and battery life is great.,0.7096,Positive
+REV134,Fast Charger,5,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV135,Smart Watch,4,Outstanding performance! Very comfortable for long work hours and easy to set up.,0.8953,Positive
+REV136,Mechanical Keyboard,3,"The product is decent for the price. Not amazing, but does the basic job.",-0.2584,Negative
+REV137,Gaming Mouse,4,Great product overall. Exactly as described on the website. Five stars!,0.6588,Positive
+REV138,Smart Watch,4,"A game changer for my desk setup. Sleek design, quiet operation, and reliable connectivity.",0.0,Neutral
+REV139,Ultra HD Monitor,3,"Fair value. Plastic feels a bit light, but functionality is fine.",0.5499,Positive
+REV140,Fast Charger,4,Great product overall. Exactly as described on the website. Five stars!,0.6588,Positive
+REV141,Ultra HD Monitor,4,Fantastic value for money. Very satisfied with the customer service and packaging.,0.8439,Positive
+REV142,Ultra HD Monitor,4,Absolutely love this product! The build quality is amazing and sound is crystal clear.,0.9039,Positive
+REV143,Wireless Headphones,5,Absolutely love this product! The build quality is amazing and sound is crystal clear.,0.9039,Positive
+REV144,Mechanical Keyboard,5,Highly recommended. Premium finish and responsive controls. Will buy again for sure.,0.7089,Positive
+REV145,Ultra HD Monitor,4,Great product overall. Exactly as described on the website. Five stars!,0.6588,Positive
+REV146,Bluetooth Speaker,1,Terrible experience. The build quality feels very cheap and it disconnects randomly.,-0.4767,Negative
+REV147,Mechanical Keyboard,3,"It performs okay. Delivery was slightly delayed, but product itself is acceptable.",0.476,Positive
+REV148,Desk Lamp,4,Absolutely love this product! The build quality is amazing and sound is crystal clear.,0.9039,Positive
+REV149,Wireless Headphones,4,Fantastic value for money. Very satisfied with the customer service and packaging.,0.8439,Positive
+REV150,Ultra HD Monitor,4,Great product overall. Exactly as described on the website. Five stars!,0.6588,Positive
+REV151,Desk Lamp,4,Great product overall. Exactly as described on the website. Five stars!,0.6588,Positive
+REV152,Mechanical Keyboard,4,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV153,Wireless Headphones,1,Terrible experience. The build quality feels very cheap and it disconnects randomly.,-0.4767,Negative
+REV154,Desk Lamp,5,Outstanding performance! Very comfortable for long work hours and easy to set up.,0.8953,Positive
+REV155,Wireless Headphones,5,Absolutely love this product! The build quality is amazing and sound is crystal clear.,0.9039,Positive
+REV156,Smart Watch,2,Waste of money. Latency issues and customer support was completely unhelpful.,-0.0258,Neutral
+REV157,Desk Lamp,3,Neither impressed nor disappointed. Just a standard mid-tier product.,-0.5724,Negative
+REV158,Bluetooth Speaker,4,Highly recommended. Premium finish and responsive controls. Will buy again for sure.,0.7089,Positive
+REV159,Wireless Headphones,5,Absolutely love this product! The build quality is amazing and sound is crystal clear.,0.9039,Positive
+REV160,Wireless Headphones,4,Great product overall. Exactly as described on the website. Five stars!,0.6588,Positive
+REV161,Wireless Headphones,1,Extremely disappointed. Stopped working after three days of normal use.,-0.6779,Negative
+REV162,Mechanical Keyboard,5,Outstanding performance! Very comfortable for long work hours and easy to set up.,0.8953,Positive
+REV163,Mechanical Keyboard,1,Do not buy this! Defective right out of the box with loud buzzing noise.,-0.5672,Negative
+REV164,Wireless Headphones,3,"Fair value. Plastic feels a bit light, but functionality is fine.",0.5499,Positive
+REV165,Fast Charger,2,Terrible experience. The build quality feels very cheap and it disconnects randomly.,-0.4767,Negative
+REV166,Ultra HD Monitor,5,Exceeded all my expectations. Works flawlessly with my laptop and battery life is great.,0.7096,Positive
+REV167,Bluetooth Speaker,4,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV168,Bluetooth Speaker,3,Neither impressed nor disappointed. Just a standard mid-tier product.,-0.5724,Negative
+REV169,Mechanical Keyboard,5,Outstanding performance! Very comfortable for long work hours and easy to set up.,0.8953,Positive
+REV170,Gaming Mouse,1,Extremely disappointed. Stopped working after three days of normal use.,-0.6779,Negative
+REV171,Fast Charger,5,Great product overall. Exactly as described on the website. Five stars!,0.6588,Positive
+REV172,Wireless Headphones,3,Neither impressed nor disappointed. Just a standard mid-tier product.,-0.5724,Negative
+REV173,Smart Watch,1,Extremely disappointed. Stopped working after three days of normal use.,-0.6779,Negative
+REV174,Smart Watch,4,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV175,Smart Watch,5,Outstanding performance! Very comfortable for long work hours and easy to set up.,0.8953,Positive
+REV176,Ultra HD Monitor,3,"It performs okay. Delivery was slightly delayed, but product itself is acceptable.",0.476,Positive
+REV177,Bluetooth Speaker,4,Absolutely love this product! The build quality is amazing and sound is crystal clear.,0.9039,Positive
+REV178,Desk Lamp,1,Extremely disappointed. Stopped working after three days of normal use.,-0.6779,Negative
+REV179,Fast Charger,3,"It performs okay. Delivery was slightly delayed, but product itself is acceptable.",0.476,Positive
+REV180,Gaming Mouse,3,Neither impressed nor disappointed. Just a standard mid-tier product.,-0.5724,Negative
+REV181,Desk Lamp,4,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV182,Gaming Mouse,4,Fantastic value for money. Very satisfied with the customer service and packaging.,0.8439,Positive
+REV183,Desk Lamp,5,Highly recommended. Premium finish and responsive controls. Will buy again for sure.,0.7089,Positive
+REV184,Wireless Headphones,1,Terrible experience. The build quality feels very cheap and it disconnects randomly.,-0.4767,Negative
+REV185,Mechanical Keyboard,4,"A game changer for my desk setup. Sleek design, quiet operation, and reliable connectivity.",0.0,Neutral
+REV186,Ultra HD Monitor,2,Terrible experience. The build quality feels very cheap and it disconnects randomly.,-0.4767,Negative
+REV187,Wireless Headphones,5,Fantastic value for money. Very satisfied with the customer service and packaging.,0.8439,Positive
+REV188,Ultra HD Monitor,5,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV189,Wireless Headphones,1,Terrible experience. The build quality feels very cheap and it disconnects randomly.,-0.4767,Negative
+REV190,Bluetooth Speaker,4,Outstanding performance! Very comfortable for long work hours and easy to set up.,0.8953,Positive
+REV191,Wireless Headphones,3,"Fair value. Plastic feels a bit light, but functionality is fine.",0.5499,Positive
+REV192,Fast Charger,5,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
+REV193,Fast Charger,3,"Fair value. Plastic feels a bit light, but functionality is fine.",0.5499,Positive
+REV194,Fast Charger,2,Extremely disappointed. Stopped working after three days of normal use.,-0.6779,Negative
+REV195,Gaming Mouse,4,Highly recommended. Premium finish and responsive controls. Will buy again for sure.,0.7089,Positive
+REV196,Mechanical Keyboard,5,Fantastic value for money. Very satisfied with the customer service and packaging.,0.8439,Positive
+REV197,Desk Lamp,3,Neither impressed nor disappointed. Just a standard mid-tier product.,-0.5724,Negative
+REV198,Mechanical Keyboard,5,Outstanding performance! Very comfortable for long work hours and easy to set up.,0.8953,Positive
+REV199,Wireless Headphones,3,"The product is decent for the price. Not amazing, but does the basic job.",-0.2584,Negative
+REV200,Ultra HD Monitor,5,"Best purchase I have made this year. High quality, very durable, and super fast delivery.",0.8542,Positive
